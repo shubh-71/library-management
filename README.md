@@ -63,6 +63,6 @@ This repo shows **evolution**:
 ---
 
 Made with ❤️ in C++  
-GitHub: [@nubdev-69](https://github.com/nubdev-69)  
-Last updated: 2025
+GitHub: [@shubh-71](https://github.com/shubh-71)  
+Last updated: November 2025
 ```
