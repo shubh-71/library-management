@@ -95,6 +95,7 @@ First run automatically creates `data/library.db`
 ## Author
 
 Subhash Kumar
+
 GitHub: [@shubh-71](https://github.com/shubh-71)
 
 ---
