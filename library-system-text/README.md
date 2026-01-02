@@ -85,6 +85,5 @@ This old version was excellent for learning OOP, file I/O, and data structures â
 
 Subhash
 Originally built: 12-11-2025  
-Modern version: https://github.com/shubh-71/library-system-db
-
+Modern version: https://github.com/shubh-71/library-management/library-system-db
 ----
